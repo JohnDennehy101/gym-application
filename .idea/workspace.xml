@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Production Files" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09b8f374-3f57-4751-b291-a348c7a903bd" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b8nZLUkheDNLErPFbyE6qlsFmK" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.splitter.proportion" value="0.14646906" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MenuController">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="MenuController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenuController" />
+      <module name="Assignment3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymAPITest$ListMemberDetailsImperialAndMetric$Some.partial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GymAPITest$ListMemberDetailsImperialAndMetric$Some" />
+      <option name="METHOD_NAME" value="partial" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymAPITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GymAPITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymUtilityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GymUtilityTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MemberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MenuController" />
+      <item itemvalue="JUnit.GymAPITest" />
+      <item itemvalue="JUnit.MemberTest" />
+      <item itemvalue="JUnit.GymUtilityTest" />
+      <item itemvalue="JUnit.GymAPITest$ListMemberDetailsImperialAndMetric$Some.partial" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MenuController" />
+        <item itemvalue="JUnit.MemberTest" />
+        <item itemvalue="JUnit.GymUtilityTest" />
+        <item itemvalue="JUnit.GymAPITest" />
+        <item itemvalue="JUnit.GymAPITest$ListMemberDetailsImperialAndMetric$Some.partial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09b8f374-3f57-4751-b291-a348c7a903bd" name="Default" comment="" />
+      <created>1524132451770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524132451770</updated>
+      <workItem from="1588022645902" duration="550000" />
+      <workItem from="1588106110227" duration="122677000" />
+      <workItem from="1590253980782" duration="23000" />
+      <workItem from="1590260329078" duration="21530000" />
+      <workItem from="1590481594691" duration="48063000" />
+      <workItem from="1590740400377" duration="12508000" />
+      <workItem from="1590836857650" duration="8271000" />
+      <workItem from="1590849243134" duration="8170000" />
+      <workItem from="1590860166698" duration="20000" />
+      <workItem from="1590860230300" duration="34000" />
+      <workItem from="1590924140149" duration="5898000" />
+      <workItem from="1590934339540" duration="7282000" />
+      <workItem from="1590941807260" duration="16000" />
+      <workItem from="1590950267840" duration="7993000" />
+      <workItem from="1590958373358" duration="10000" />
+      <workItem from="1591011017257" duration="6249000" />
+      <workItem from="1591021339446" duration="4740000" />
+      <workItem from="1591028896818" duration="4069000" />
+      <workItem from="1591039839825" duration="1751000" />
+      <workItem from="1591093917905" duration="4398000" />
+      <workItem from="1591112233332" duration="4741000" />
+      <workItem from="1591132773077" duration="94000" />
+      <workItem from="1591132989342" duration="23000" />
+      <workItem from="1591299462308" duration="95000" />
+      <workItem from="1591444353865" duration="7302000" />
+      <workItem from="1591455657897" duration="10719000" />
+      <workItem from="1591466470631" duration="15000" />
+      <workItem from="1591469787052" duration="4849000" />
+      <workItem from="1591474907732" duration="14000" />
+      <workItem from="1591528128970" duration="4838000" />
+      <workItem from="1591533035345" duration="134000" />
+      <workItem from="1591533201280" duration="96000" />
+      <workItem from="1591533420985" duration="17000" />
+      <workItem from="1591533459202" duration="95000" />
+      <workItem from="1591533816894" duration="293000" />
+      <workItem from="1591534142428" duration="54000" />
+      <workItem from="1591534321069" duration="2938000" />
+      <workItem from="1591537379117" duration="12000" />
+      <workItem from="1591538563090" duration="33000" />
+      <workItem from="1591544873729" duration="289000" />
+      <workItem from="1591560382694" duration="3261000" />
+      <workItem from="1591563787026" duration="137000" />
+      <workItem from="1591563942820" duration="12000" />
+      <workItem from="1591564258716" duration="3846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589729591307">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1589729591307" />
+    <state x="432" y="140" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1589227931355">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="140" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1589227931355" />
+    <state x="463" y="195" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591534185907">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="463" y="195" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591534185907" />
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom" timestamp="1591568126782">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.0.1440.859/1440.-37.1920.1057@0.0.1440.859" timestamp="1589492145317" />
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.-37.1920.1057@0.0.1440.860" timestamp="1591032994368" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1591537214333" />
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591568126782" />
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591563954668" />
+    <state width="1398" height="191" key="GridCell.Tab.0.center" timestamp="1591568126775">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.0.1440.859/1440.-37.1920.1057@0.0.1440.859" timestamp="1589492145313" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.0.1440.860/1440.-37.1920.1057@0.0.1440.860" timestamp="1591032994365" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1591537214330" />
+    <state width="1398" height="191" key="GridCell.Tab.0.center/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591568126775" />
+    <state width="1398" height="191" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591563954666" />
+    <state width="1398" height="191" key="GridCell.Tab.0.left" timestamp="1591568126774">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.0.1440.859/1440.-37.1920.1057@0.0.1440.859" timestamp="1589492145312" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.0.1440.860/1440.-37.1920.1057@0.0.1440.860" timestamp="1591032994364" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1591537214329" />
+    <state width="1398" height="191" key="GridCell.Tab.0.left/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591568126774" />
+    <state width="1398" height="191" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591563954666" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right" timestamp="1591568126781">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.0.1440.859/1440.-37.1920.1057@0.0.1440.859" timestamp="1589492145315" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.0.1440.860/1440.-37.1920.1057@0.0.1440.860" timestamp="1591032994366" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1591537214331" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591568126781" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591563954667" />
+    <state width="1398" height="315" key="GridCell.Tab.1.bottom" timestamp="1591466415061">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="315" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.-37.1920.1057@0.0.1440.860" timestamp="1590617258340" />
+    <state width="1398" height="315" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1590941654504" />
+    <state width="1398" height="315" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591466415061" />
+    <state width="1398" height="315" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590577401657" />
+    <state width="1398" height="315" key="GridCell.Tab.1.center" timestamp="1591466415059">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="315" key="GridCell.Tab.1.center/0.0.1440.860/1440.-37.1920.1057@0.0.1440.860" timestamp="1590617258337" />
+    <state width="1398" height="315" key="GridCell.Tab.1.center/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1590941654500" />
+    <state width="1398" height="315" key="GridCell.Tab.1.center/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591466415059" />
+    <state width="1398" height="315" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590577401652" />
+    <state width="1398" height="315" key="GridCell.Tab.1.left" timestamp="1591466415058">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="315" key="GridCell.Tab.1.left/0.0.1440.860/1440.-37.1920.1057@0.0.1440.860" timestamp="1590617258335" />
+    <state width="1398" height="315" key="GridCell.Tab.1.left/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1590941654499" />
+    <state width="1398" height="315" key="GridCell.Tab.1.left/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591466415058" />
+    <state width="1398" height="315" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590577401651" />
+    <state width="1398" height="315" key="GridCell.Tab.1.right" timestamp="1591466415060">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="315" key="GridCell.Tab.1.right/0.0.1440.860/1440.-37.1920.1057@0.0.1440.860" timestamp="1590617258338" />
+    <state width="1398" height="315" key="GridCell.Tab.1.right/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1590941654502" />
+    <state width="1398" height="315" key="GridCell.Tab.1.right/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591466415060" />
+    <state width="1398" height="315" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590577401653" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1589728698118">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1589728698118" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1590860251286">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1588106111082" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1590860251286" />
+    <state x="223" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590438891999">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="223" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1590438891999" />
+    <state x="97" y="69" key="new project wizard" timestamp="1590145965622">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="69" key="new project wizard/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1589401994864" />
+    <state x="97" y="69" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1590145965622" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1591040369555">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-37.1920.1057@0.0.1440.900" timestamp="1589495242343" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-60.1920.1080@0.0.1440.900" timestamp="1591040369555" />
+  </component>
+</project>

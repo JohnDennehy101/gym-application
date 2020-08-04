@@ -1,0 +1,152 @@
+<object-stream>
+  <list>
+    <Trainer>
+      <name>Jose Mourinho</name>
+      <email>jmourinho@gmail.com</email>
+      <address>London</address>
+      <gender>M</gender>
+      <specialty>Football</specialty>
+    </Trainer>
+    <Trainer>
+      <name>Jurgen Klopp</name>
+      <email>jklopp@gmail.com</email>
+      <address>Liverpool</address>
+      <gender>M</gender>
+      <specialty>Dramatic comebacks</specialty>
+    </Trainer>
+  </list>
+  <list>
+    <PremiumMember>
+      <name>Usain Bolt</name>
+      <email>usain@gmail.com</email>
+      <address>Jamaica</address>
+      <gender>M</gender>
+      <height>1.95</height>
+      <startWeight>89.0</startWeight>
+      <memberAssessments>
+        <entry>
+          <string>20/06/07</string>
+          <Assessment>
+            <weight>88.8</weight>
+            <thigh>33.9</thigh>
+            <waist>32.0</waist>
+            <trainerName>Jose Mourinho</trainerName>
+            <comment>Super work</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>20/06/06</string>
+          <Assessment>
+            <weight>89.1</weight>
+            <thigh>34.0</thigh>
+            <waist>32.0</waist>
+            <trainerName>Jose Mourinho</trainerName>
+            <comment>Great work!</comment>
+          </Assessment>
+        </entry>
+      </memberAssessments>
+      <packageChoice>Package 1</packageChoice>
+    </PremiumMember>
+    <PremiumMember>
+      <name>Harry Kane</name>
+      <email>harry@gmail.com</email>
+      <address>London</address>
+      <gender>M</gender>
+      <height>1.88</height>
+      <startWeight>86.0</startWeight>
+      <memberAssessments>
+        <entry>
+          <string>20/06/06</string>
+          <Assessment>
+            <weight>87.0</weight>
+            <thigh>35.0</thigh>
+            <waist>32.0</waist>
+            <trainerName>Jose Mourinho</trainerName>
+            <comment>Some improvement needed.</comment>
+          </Assessment>
+        </entry>
+      </memberAssessments>
+      <packageChoice>Package 2</packageChoice>
+    </PremiumMember>
+    <StudentMember>
+      <name>Roger Federer</name>
+      <email>rfederer@gmail.com</email>
+      <address>Switzerland</address>
+      <gender>M</gender>
+      <height>1.85</height>
+      <startWeight>84.0</startWeight>
+      <chosenPackage>WIT</chosenPackage>
+      <memberAssessments>
+        <entry>
+          <string>20/06/07</string>
+          <Assessment>
+            <weight>85.0</weight>
+            <thigh>34.0</thigh>
+            <waist>32.0</waist>
+            <trainerName>Jurgen Klopp</trainerName>
+            <comment>Some improvement needed.</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>20/06/06</string>
+          <Assessment>
+            <weight>81.0</weight>
+            <thigh>32.0</thigh>
+            <waist>33.0</waist>
+            <trainerName>Jose Mourinho</trainerName>
+            <comment>Great improvement!</comment>
+          </Assessment>
+        </entry>
+      </memberAssessments>
+      <studentId>1246876</studentId>
+      <collegeName>WIT</collegeName>
+    </StudentMember>
+    <StudentMember>
+      <name>Serena Williams</name>
+      <email>swilliams@gmail.com</email>
+      <address>United States</address>
+      <gender>F</gender>
+      <height>1.75</height>
+      <startWeight>92.0</startWeight>
+      <chosenPackage>Package 3</chosenPackage>
+      <memberAssessments>
+        <entry>
+          <string>20/06/06</string>
+          <Assessment>
+            <weight>88.0</weight>
+            <thigh>32.0</thigh>
+            <waist>31.0</waist>
+            <trainerName>Jurgen Klopp</trainerName>
+            <comment>Fantastic job!</comment>
+          </Assessment>
+        </entry>
+      </memberAssessments>
+      <studentId>16803456</studentId>
+      <collegeName>UL</collegeName>
+    </StudentMember>
+    <StudentMember>
+      <name>Maria Sharapova</name>
+      <email>msharapova@gmail.com</email>
+      <address>Russia</address>
+      <gender>F</gender>
+      <height>1.88</height>
+      <startWeight>75.0</startWeight>
+      <memberAssessments/>
+      <studentId>46654332</studentId>
+      <collegeName>DCU</collegeName>
+      <packageChoice>Package 3</packageChoice>
+    </StudentMember>
+    <StudentMember>
+      <name>Rafael Nadal</name>
+      <email>rnadal@gmail.com</email>
+      <address>Spain</address>
+      <gender>M</gender>
+      <height>1.75</height>
+      <startWeight>78.0</startWeight>
+      <memberAssessments/>
+      <studentId>4678654</studentId>
+      <collegeName>WIT</collegeName>
+      <packageChoice>WIT</packageChoice>
+    </StudentMember>
+  </list>
+</object-stream>
